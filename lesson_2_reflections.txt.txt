@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git tracking is started and git metadat is added, next step is to add files and then commit them
